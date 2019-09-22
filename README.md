@@ -1,3 +1,8 @@
+# Modification in this fork
+
+* Removed blind vias so the board can be made my JCLPCB.
+
+
 # Tympan Rev D Hardware
 Repository for Tympan Rev D electronics and case designs
 
